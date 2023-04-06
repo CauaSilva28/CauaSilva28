@@ -1,6 +1,5 @@
 ### Olá! Sou o aluno Cauã Silva 👋
 - 🎮 Estudando programação de jogos digitais 2/3 (Javascript, Unity, C#)
-- 😄 Pronomes: ele/dele
 
 ##
 
