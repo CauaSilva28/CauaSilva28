@@ -1,6 +1,6 @@
 ### Olá! Sou o aluno Cauã Silva 👋
 - 🎮 Estudando programação de jogos digitais 3/3
-
+- Estudando criação de sites
 ##
 
 <div style="display: inline_block">
