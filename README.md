@@ -16,3 +16,5 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4f4f52&text_color=0000FF&height=120&section=footer"/>
