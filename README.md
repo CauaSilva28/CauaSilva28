@@ -1,12 +1,16 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4f4f52&height=120&section=header"/>
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Olá+Sou+o+desenvolvedor+Cauã+Silva" alt="Typing SVG" /></a>
+</div>
 
 - 🎮 Estudando programação de jogos digitais 3/3
 - Estudando criação de sites
 
-<div style="display: inline_block">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CauaSilva28&show_icons=true&theme=dark" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaSilva28&langs_count=8&theme=dark" />
+<div align="center">
+  <div style="display: inline_block">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CauaSilva28&show_icons=true&theme=dark" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaSilva28&langs_count=8&theme=dark" />
+  </div>
 </div>
 <br>
 <div style="display: inline_block">
