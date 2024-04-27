@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=363636&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6706b8&height=120&section=header"/>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=25&pause=1000&color=7EFF7D&random=false&width=435&lines=Eai!+sou+o+desenvolvedor+Cau%C3%A3+Silva;Estudante+fascinado+em+tecnologia" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=25&pause=1000&color=6706b8&random=false&width=435&lines=Eai!+sou+o+desenvolvedor+Cau%C3%A3+Silva;Estudante+fascinado+em+tecnologia" alt="Typing SVG" /></a>
 </div>
 
 - 🎮 Estudando programação de jogos digitais 3/3
@@ -14,8 +14,8 @@
 
 <div align="center">
   <div style="display: inline_block">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CauaSilva28&show_icons=true&theme=dark" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaSilva28&langs_count=8&theme=dark" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CauaSilva28&show_icons=true&theme=midnight-purple" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaSilva28&langs_count=8&theme=midnight-purple" />
   </div>
   <br>
   <div style="display: inline_block">
@@ -28,4 +28,4 @@
   </div>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=363636&text_color=0000FF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6706b8&text_color=0000FF&height=120&section=footer"/>
