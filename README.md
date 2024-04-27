@@ -1,10 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4f4f52&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=363636&height=120&section=header"/>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=25&pause=1000&color=7EFF7D&random=false&width=435&lines=Eai!+sou+o+desenvolvedor+Cau%C3%A3+Silva;Estudante+fascinado+em+tecnologia" alt="Typing SVG" /></a>
 </div>
 
 - 🎮 Estudando programação de jogos digitais 3/3
 - Estudando criação de sites
+
+<div align="center">
+  <a href="https://www.instagram.com/c4ua_svm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-212121?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="#"> <img src="https://img.shields.io/badge/-Gmail-212121?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/cau%C3%A3-santos-7834332ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-212121?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div><br>
 
 <div align="center">
   <div style="display: inline_block">
@@ -22,4 +28,4 @@
   </div>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4f4f52&text_color=0000FF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=363636&text_color=0000FF&height=120&section=footer"/>
