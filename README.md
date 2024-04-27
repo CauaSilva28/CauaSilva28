@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://www.instagram.com/c4ua_svm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-212121?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="#"> <img src="https://img.shields.io/badge/-Gmail-212121?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:cauasmsantos10@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-212121?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cau%C3%A3-santos-7834332ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-212121?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div><br>
 
