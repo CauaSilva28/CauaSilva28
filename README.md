@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4f4f52&height=120&section=header"/>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Olá+Sou+o+desenvolvedor+Cauã+Silva" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=25&pause=1000&color=ACEDA4&random=false&width=435&lines=Eai!+sou+o+desenvolvedor+Cau%C3%A3+Silva;Estudante+fascinado+em+tecnologia" alt="Typing SVG" /></a>
 </div>
 
 - 🎮 Estudando programação de jogos digitais 3/3
